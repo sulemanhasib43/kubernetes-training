@@ -4,6 +4,6 @@ metadata:
   name: hello-world-pod
 spec:
   containers:
-  - name: nginx
+  - name: hello-world
     image: sulemanhasib43/hello-world:v1.0
 
